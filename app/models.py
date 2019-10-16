@@ -1,4 +1,4 @@
-
+from . import db 
 class Movie:
     '''
     Movie class to define Movie Objects
